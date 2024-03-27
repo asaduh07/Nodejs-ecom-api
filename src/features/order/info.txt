@@ -1,0 +1,11 @@
+Features
+Place an order-//Either all the operations should perform or not anyone.- Transactions
+1. Get the cart items of user, calculate the total amount.
+2.Create a record for order.
+3.Reduce the stock(products quantity).
+4.Clear the cart.
+
+//extra features
+5. Deduct the payment.
+6. Inform to sellers.
+7. Inform to courier.
